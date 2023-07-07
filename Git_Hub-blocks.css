@@ -1,0 +1,54 @@
+* {
+    /*border: 1px solid red;*/
+    margin: 0;
+    padding: 0;
+}
+.images {
+    height: 200px;
+}
+
+.container{
+    background-color: gray;
+    text-align: center;
+    margin: 100px; 
+    padding: 20px;
+}
+h1{
+    text-decoration: underline;
+}
+#space{
+    margin: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#holiday{
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#sciencefiction{
+    margin: 20px;
+    padding: 10px;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.footer{
+    margin: 0px 400px;
+    border: 1px solid azure;
+    background-color: azure;
+    color:purple;
+}
+
+
+
+
+
+
+
